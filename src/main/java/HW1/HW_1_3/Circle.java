@@ -1,6 +1,6 @@
-package HW_1_3;
+package HW1.HW_1_3;
 
-public class Circle extends Figure{
+public class Circle extends Figure {
     private static final int PI = 3;
     private int radius;
 

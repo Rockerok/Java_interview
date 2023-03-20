@@ -1,7 +1,4 @@
-package HW_1_1;
-
-import java.math.BigDecimal;
-import java.time.LocalDateTime;
+package HW1.HW_1_1;
 
 public class Person {
 
