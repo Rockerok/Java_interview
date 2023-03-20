@@ -1,4 +1,4 @@
-package HW_1_2;
+package HW1.HW_1_2;
 
 public class HW_1_2 {
         /*

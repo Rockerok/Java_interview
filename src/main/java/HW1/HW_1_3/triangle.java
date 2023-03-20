@@ -1,4 +1,4 @@
-package HW_1_3;
+package HW1.HW_1_3;
 
 public class triangle extends Figure{
 
